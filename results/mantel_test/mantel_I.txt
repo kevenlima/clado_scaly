@@ -1,0 +1,4 @@
+r(AB) = 0.383 
+ p-value (Two-tailed) = 0.045 
+ alpha = 0.05 
+
